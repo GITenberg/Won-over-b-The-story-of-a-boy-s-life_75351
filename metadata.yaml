@@ -1,11 +1,16 @@
 _repo: Won-over-b-The-story-of-a-boy-s-life_75351
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hellis, Nellie
     gutenberg_agent_id: '57564'
     url: http://www.gutenberg.org/2009/agents/57564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75351#Won-over-b-The-story-of-a-boy-s-life
 gutenberg_issued: '2025-02-12'
 gutenberg_type: Text
 identifiers:
